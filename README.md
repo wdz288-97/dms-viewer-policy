@@ -7,7 +7,8 @@ This is a static website package for hosting the existing privacy policy publicl
 ## Files
 
 - `index.html`: the privacy policy as the website home page.
-- `privacy-policy.html`: the same policy at a stable named URL.
+- `privacy-policy.html`: the same English policy at a stable named URL.
+- `privacy-policy-ms.html`: the Bahasa Malaysia policy.
 - `disclaimer.html`: linked terms/disclaimer.
 - `pdpa-official-references.html`: linked official PDPA reference page.
 - `legal.css`: shared presentation.
@@ -22,23 +23,9 @@ The confirmed public publisher name is Ding Lab, and the privacy and support con
 
 Keep a consistent finalized copy in both the public website and extension. Do not publish the full development project or any private issuer files.
 
-## Publish with GitHub Pages
+## GitHub Pages
 
-1. Extract this ZIP.
-2. Create a separate GitHub repository, for example `dms-viewer-policy`. On GitHub Free, use a public repository for Pages.
-3. Upload the extracted website files to the repository root. Upload the files themselves, not this ZIP and not the full extension project. Ensure `index.html` is at the publishing root.
-4. Open repository Settings → Pages. Choose Deploy from a branch, branch `main`, folder `/(root)`, then Save.
-5. Wait for Pages deployment to finish and use the URL shown in the repository's Pages settings.
-6. Open the public policy URL in an InPrivate window to check that no sign-in is needed and the linked legal pages/style load.
-7. Paste the public HTTPS policy URL into the Edge Store Privacy Policy URL field.
-
-Example URL format only — replace YOUR-USERNAME and the repository name:
-
-`https://YOUR-USERNAME.github.io/dms-viewer-policy/privacy-policy.html`
-
-The root URL also displays the policy because `index.html` is included. You can use an existing public HTTPS website instead; upload the same website files together so relative links continue to work.
-
-A ZIP on your computer is not a public URL. This package has not been uploaded or published, and it does not automatically create a GitHub repository or website.
+The policy URL is https://wdz288-97.github.io/dms-viewer-policy/privacy-policy.html. Publish the website files together at the repository root so relative links work, and verify the deployed pages after updates. Do not upload the full extension project or private issuer files.
 
 ## Official instructions
 
