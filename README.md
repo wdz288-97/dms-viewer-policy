@@ -1,6 +1,6 @@
 # DMS Viewer — public privacy-policy site
 
-Prepared 11 November 2026. Policy and extension version: **1.0.0**.
+Prepared 11 November 2026. Policy and extension version: **1.0.1**.
 
 This is a static website package for hosting the existing privacy policy publicly. It is not the extension package. No private signing key, issued license, client report, extension parser, generator or browser data is included.
 
